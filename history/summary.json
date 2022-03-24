@@ -4,7 +4,7 @@
     "url": "https://komikon.me",
     "icon": "https://favicons.githubusercontent.com/komikon.me",
     "slug": "komik-on",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 1282,
     "timeMonth": 1315,
     "timeYear": 1315,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-24": 0
+    }
   }
 ]
