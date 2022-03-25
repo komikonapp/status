@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/komikon.me",
     "slug": "komik-on",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.94%",
+    "uptimeDay": "71.43%",
+    "uptimeWeek": "95.92%",
+    "uptimeMonth": "98.94%",
+    "uptimeYear": "98.94%",
     "time": 1315,
-    "timeDay": 1140,
-    "timeWeek": 1282,
+    "timeDay": 0,
+    "timeWeek": 1236,
     "timeMonth": 1315,
     "timeYear": 1315,
     "dailyMinutesDown": {
-      "2022-03-24": 0
+      "2022-03-25": 85,
+      "2022-03-24": 327
     }
   }
 ]
