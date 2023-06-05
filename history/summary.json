@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/komikon.me.ico",
     "slug": "komik-on",
     "status": "down",
-    "uptime": "35.38%",
+    "uptime": "35.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "26.95%",
-    "time": 1711,
+    "time": 1712,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 176,
     "dailyMinutesDown": {
-      "2023-06-04": 116,
+      "2023-06-05": 102,
+      "2023-06-04": 1440,
       "2023-06-03": 1440,
       "2023-06-02": 1440,
       "2023-06-01": 1440,
@@ -282,8 +283,7 @@
       "2022-06-09": 1440,
       "2022-06-08": 1440,
       "2022-06-07": 1440,
-      "2022-06-06": 1440,
-      "2022-06-05": 1440
+      "2022-06-06": 1440
     }
   }
 ]
